@@ -23,3 +23,15 @@ This repository contains the materials I created while working through the "Appl
 - [final project](https://github.com/shelbybachman/applied-data-science-python/blob/main/plotting-python/assignment4.ipynb)
 
 ### applied machine learning in python
+**week 1: ML fundamentals**  (data exploration, training and test sets, basic model fitting) 
+<br>
+[notebook](https://github.com/shelbybachman/applied-data-science-python/blob/main/applied-ml-python/module_1.ipynb) / 
+[assignment](https://github.com/shelbybachman/applied-data-science-python/blob/main/applied-ml-python/assignment_1.ipynb)
+<br><br>
+**week 2: supervised ML, part I** (linear/polynomial/ridge/lasso regression, logistic regression, support vector machines, cross-validation)
+<br>
+[notebook](https://github.com/shelbybachman/applied-data-science-python/blob/main/applied-ml-python/module_2.ipynb) / 
+[assignment](https://github.com/shelbybachman/applied-data-science-python/blob/main/applied-ml-python/assignment_2.ipynb)
+<br><br>
+**week 3: model evaluation**
+**week 4: supervised ML, part II**
