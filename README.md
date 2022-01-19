@@ -1,4 +1,5 @@
 This repository contains the materials I created while working through the "Applied Data Science in Python" specialization from the University of Michigan on Coursera. The materials are organized by course:
+<hr>
 
 ### introduction to data science in python
 
@@ -17,7 +18,8 @@ This repository contains the materials I created while working through the "Appl
 **week 4: answering questions with messy data** (statistical testing, Goodhart's law, structured data)
 <br>
 [assignment](https://github.com/shelbybachman/applied-data-science-python/blob/main/intro-ds-python/assignment4.ipynb)
-<br><br><br>
+<br><br>
+<hr>
 
 ### applied plotting, charting & data representation in python
 
@@ -36,7 +38,8 @@ This repository contains the materials I created while working through the "Appl
 **week 4: applied visualizations** (plotting with Pandas, seaborn)
 <br>
 [final project](https://github.com/shelbybachman/applied-data-science-python/blob/main/plotting-python/assignment4.ipynb)
-<br><br><br>
+<br><br>
+<hr>
 
 ### applied machine learning in python
 **week 1: ML fundamentals**  (data exploration, training and test sets, basic model fitting) 
