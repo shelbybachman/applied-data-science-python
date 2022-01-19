@@ -59,3 +59,9 @@ This repository contains the materials I created while working through the "Appl
 <br><br>
 **week 4: supervised ML, part II** (naive bayes, random forests, neural networks, deep learning, data leakage)
 <br>
+[notebook](https://github.com/shelbybachman/applied-data-science-python/blob/main/applied-ml-python/module_4.ipynb) /
+[assignment](https://github.com/shelbybachman/applied-data-science-python/blob/main/applied-ml-python/assignment_4.ipynb)
+<br><br>
+**extra: unsupervised learning** (PCA, MDS, k-means clustering, t-SNE)
+<br>
+[notebook](https://github.com/shelbybachman/applied-data-science-python/blob/main/applied-ml-python/unsupervised_learning.ipynb)
